@@ -14,7 +14,7 @@ public class StringExample {
 
 		System.out.println(str1==str2);
 		//we cannot concat any null string
-		System.out.println(str1.concat(null));
+		//System.out.println(str1.concat(null));
 		System.out.println(name==name1);
 		System.out.println(name.equals(name1));//true
 
